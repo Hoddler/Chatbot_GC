@@ -1,0 +1,57 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5218141702565@s.whatsapp.net',
+    fromMe: false,
+    id: 'E4D0DCD8F4DA14B93F',
+    participant: undefined
+  },
+  messageTimestamp: 1718661924,
+  pushName: '5218141702565',
+  broadcast: false,
+  verifiedBizName: 'DiDi Food MX',
+  message: Message {
+    templateMessage: TemplateMessage {
+      hydratedTemplate: [HydratedFourRowTemplate],
+      templateId: '847330370524894'
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '5218141702565'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216672425476@s.whatsapp.net',
+    fromMe: false,
+    id: 'A29537EF7389CB99AC3CB18A89B52B32',
+    participant: undefined
+  },
+  messageTimestamp: 1718662264,
+  pushName: 'César Aguilar',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/30779256_1649272942494826_7695658825367483834_n.enc?ccb=11-4&oh=01_Q5AaIGf9Lec_gHKkedSnV-rc5SbXskWB9M0h8XE0ZEyK55sy&oe=6698230E&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 12,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/30779256_1649272942494826_7695658825367483834_n.enc?ccb=11-4&oh=01_Q5AaIGf9Lec_gHKkedSnV-rc5SbXskWB9M0h8XE0ZEyK55sy&oe=6698230E&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      contextInfo: [ContextInfo],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__8bdb8815-19d9-431c-b67c-b138f4b50ace',
+  from: '5216672425476'
+}
